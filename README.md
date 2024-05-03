@@ -26,5 +26,7 @@
         <p>Contributions and feedback are welcome! Feel free to submit pull requests with improvements, bug fixes, or additional features to enhance the project.</p>
         <p><strong>Disclaimer:</strong> This project is for educational and demonstration purposes only. It is not affiliated with or endorsed by obys.agency.</p>
     </div>
+    <hr>
+    <p> LinkedIn post to this project<a href="https://www.linkedin.com/posts/your-linkedin-post-url">here</a> to view the LinkedIn post.</p>
 </body>
 </html>
