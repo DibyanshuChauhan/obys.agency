@@ -27,6 +27,6 @@
         <p><strong>Disclaimer:</strong> This project is for educational and demonstration purposes only. It is not affiliated with or endorsed by obys.agency.</p>
     </div>
     <hr>
-    <p> LinkedIn post to this project<a href="https://www.linkedin.com/posts/your-linkedin-post-url">here</a> to view the LinkedIn post.</p>
+    <p> LinkedIn post to this project <a href="https://www.linkedin.com/feed/update/urn:li:activity:7191341589665845248/">here</a> to view the LinkedIn post.</p>
 </body>
 </html>
