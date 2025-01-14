@@ -1,32 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-</head>
-<body>
-    <div class="container">
-        <h1>Responsive Web UI: Replicating obys.agency</h1>
-        <p>This repository hosts a responsive web user interface (UI) project aimed at recreating the design and functionality of obys.agency's website. Developed entirely with HTML, CSS, and JavaScript, this project serves as both a learning exercise and a demonstration of front-end development skills.</p>
-        <h2>Key Features:</h2>
-        <ul>
-            <li>Pixel-Perfect Replication: Every aspect of obys.agency's website design has been meticulously recreated to ensure a faithful representation.</li>
-            <li>Responsive Design: The UI adapts seamlessly to various screen sizes and devices, providing an optimal viewing experience for users on desktops, tablets, and smartphones.</li>
-            <li>Pure Front-End Technologies: No frameworks or libraries were used in this project, emphasizing the developer's proficiency in raw HTML, CSS, and JavaScript.</li>
-            <li>Interactive Elements: JavaScript functionality enhances user interaction, providing a dynamic browsing experience while maintaining the original site's essence.</li>
-        </ul>
-        <h2>How to Use:</h2>
-        <ol>
-            <li>Clone the repository to your local machine.</li>
-            <li>Open the index.html file in a web browser to view the replicated UI.</li>
-            <li>Explore the site's responsiveness by resizing the browser window or accessing it from different devices.</li>
-        </ol>
-        <h2>Contributions:</h2>
-        <p>Contributions and feedback are welcome! Feel free to submit pull requests with improvements, bug fixes, or additional features to enhance the project.</p>
-        <p><strong>Disclaimer:</strong> This project is for educational and demonstration purposes only. It is not affiliated with or endorsed by obys.agency.</p>
-    </div>
-    <hr>
-    <p> LinkedIn post to this project <a href="https://www.linkedin.com/feed/update/urn:li:activity:7191341589665845248/">here</a> to view the LinkedIn post.</p>
-</body>
-</html>
+# Obys.agency
+
+Welcome to the **Obys.agency** repository! This project is a personal attempt to replicate the UI of the Ukraine-based design agency **Objs.agency** using HTML, CSS, JavaScript, and enhanced with Locomotive.js for smooth scrolling and Sherry.js for animations.
+
+## Key Features:
+- **Pixel Perfect Replication**: Carefully crafted layout to mimic the design aesthetics of the original Objs.agency.
+- **Interactive Elements**: Incorporates various interactive UI components to enhance user engagement.
+- **No Framework or Libraries**: Built from scratch using pure HTML, CSS, and JavaScript (except for Locomotive.js and Sherry.js).
+- **Smooth Scrolling**: Integrated Locomotive.js to provide a seamless, smooth scrolling experience.
+- **Animations**: Enhanced with Sherry.js to add subtle yet impactful animations.
+
+## How to Install and Run Locally:
+
+### Prerequisites:
+- Ensure you have a code editor like Visual Studio Code, Sublime Text, or any preferred editor installed.
+- Make sure you have Node.js installed (for running Locomotive.js).
+
+### Steps to Clone and Run:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/DibyanshuChauhan/obys.agency.git
+
+2.  Navigate to the Project Directory:
+    ```bash
+    cd obys.agency
+
+3.  Install Dependencies: Since there are no external dependencies except Locomotive.js and Sherry.js, you don't need to install anything additional.
+
+4.  Open the Project: Open the index.html file in your preferred web browser to view the replicated UI.
+
+5.  Start Developing Locally: To make local changes, simply open the project in your code editor, make the desired changes, and refresh the browser to see the updates.
+
+<hr>
+
+# Contact 
+If you have any questions or suggestions, feel free to reach out:
+
+Email: cdivyanshu98@gmail.com
+
+GitHub: https://github.com/DibyanshuChauhan
